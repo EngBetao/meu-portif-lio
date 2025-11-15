@@ -6,9 +6,7 @@ import './AboutMe.css';
 function AboutMe() {
   return (
     <section className="about-me-container">
-      <div className="profile-photo">
-        {/* Coloque sua foto aqui */}
-      </div>
+      <img src={profileImage} alt="Foto de Perfil do Desenvolvedor" />
       <div className="content-area">
         <h1>Olá, eu sou Humberto</h1>
         <h2>Desenvolvedor Front-end | React</h2>
