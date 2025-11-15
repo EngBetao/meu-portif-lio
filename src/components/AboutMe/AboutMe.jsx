@@ -25,7 +25,7 @@ function AboutMe() {
             <div className="contact-links">
                 <h3>Conecte-se comigo</h3>
                 <a href="www.linkedim.com/in/humberto-jose-oliveira" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                <a href="https://github.com/EngBeto" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a href="https://engbetao.github.io/meu-portif-lio/" target="_blank" rel="noopener noreferrer">GitHub</a>
                 <a href="mailto:humberto.software@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
             </div>
 
