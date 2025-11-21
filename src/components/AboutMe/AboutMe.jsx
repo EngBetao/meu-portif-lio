@@ -1,10 +1,11 @@
 import React from 'react';
 import './AboutMe.css'; 
 
-// Definindo o caminho da imagem que está na pasta public
-const profileImage = '/profile.jpg'; 
+    
 
 function AboutMe() {
+    
+    const profileImage = '/profile.jpg';
   return (
     <section className="about-me-container">
         
@@ -25,7 +26,7 @@ function AboutMe() {
             <div className="contact-links">
                 <h3>Conecte-se comigo</h3>
                 <a href="www.linkedim.com/in/humberto-jose-oliveira" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                <a href="https://github.com/EngBeto" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a href="https://engbetao.github.io/meu-portif-lio/" target="_blank" rel="noopener noreferrer">GitHub</a>
                 <a href="mailto:humberto.software@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
             </div>
 
