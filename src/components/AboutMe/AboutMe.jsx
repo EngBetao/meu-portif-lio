@@ -4,8 +4,6 @@ import profileImage from '../../assets/profile.jpg';
 
     
 
-// Definindo o caminho da imagem que está na pasta public
-const profileImage = '/profile.jpg'; 
 
 function AboutMe() {
   return (
