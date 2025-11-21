@@ -1,11 +1,11 @@
 import React from 'react';
 import './AboutMe.css'; 
-import profileImage from '../../assets/profile.jpg'; 
 
     
 
-
 function AboutMe() {
+    
+    const profileImage = '/profile.jpg';
   return (
     <section className="about-me-container">
         
